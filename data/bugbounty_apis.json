@@ -1,0 +1,13 @@
+
+ {
+    "url": "https://ray.net/",
+    "domain": "ray.net",
+    "path": "/",
+    "scheme": "https",
+    "is_api": true,
+    "api_type": "REST/JSON",
+    "timestamp": "2025-11-16T14:55:39.230307",
+    "status_code": 200,
+    "server": "cloudflare",
+    "cloudflare": true
+  }
